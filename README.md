@@ -1,4 +1,4 @@
-# Email Scraper for Medical Colleges & Universities
+# Email Scraper for Organizations
 
 ## Why This Works Well
 
